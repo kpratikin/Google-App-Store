@@ -1,2 +1,2 @@
 # Google-App-Store
-Google App Store Data - Application Data Analysis
+Objective - To explore and analyze Google App Store Data, generate insights and make recommendations to develop next  trending App in Play Store.
